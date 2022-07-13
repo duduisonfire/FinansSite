@@ -11,7 +11,8 @@ Layout totalmente responsivo construido com Bootstrap 5.
 
 Você pode pré-visualizar este projeto no link: https://duduisonfire.github.io/tecblog/
 
--
+---
+
 Hello, welcome, my name is Igor Tiburcio Cavalcanti and this is a project that I created during my studies in HTML, CSS and Bootstrap.
 
 The project refers to a website that offers a financial control application as a product.
