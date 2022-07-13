@@ -1,6 +1,6 @@
 # Sobre
-<a href="https://ibb.co/b5CdhJy"><img src="https://i.ibb.co/QvTmBdq/Screenshot-from-2022-07-13-17-05-14.png" alt="Screenshot-from-2022-07-13-17-05-14" border="1" width="700" height="400"></a>
-<a href="https://ibb.co/KNgWZTq"><img src="https://i.ibb.co/cb9Q54F/Screenshot-from-2022-07-13-17-05-30.png" alt="Screenshot-from-2022-07-13-17-05-30" border="0" height="400"></a>
+<img src="https://i.ibb.co/QvTmBdq/Screenshot-from-2022-07-13-17-05-14.png" alt="Screenshot-from-2022-07-13-17-05-14" border="1" width="700" height="400">
+<img src="https://i.ibb.co/cb9Q54F/Screenshot-from-2022-07-13-17-05-30.png" alt="Screenshot-from-2022-07-13-17-05-30" border="0" height="400">
 
 
 Olá, bem vindo, me chamo Igor Tiburcio Cavalcanti e este é um projeto que criei ao longo dos meus estudos em HTML, CSS e Bootstrap.
